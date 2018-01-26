@@ -1,0 +1,14 @@
+# Output products list for <IP_Core_rec_32bit>
+IP_Core_rec_32bit.asy
+IP_Core_rec_32bit.gise
+IP_Core_rec_32bit.ngc
+IP_Core_rec_32bit.sym
+IP_Core_rec_32bit.v
+IP_Core_rec_32bit.veo
+IP_Core_rec_32bit.xco
+IP_Core_rec_32bit.xise
+IP_Core_rec_32bit\doc\floating_point_ds335.pdf
+IP_Core_rec_32bit\doc\floating_point_v5_0_readme.txt
+IP_Core_rec_32bit\doc\floating_point_v5_0_vinfo.html
+IP_Core_rec_32bit_flist.txt
+IP_Core_rec_32bit_xmdf.tcl

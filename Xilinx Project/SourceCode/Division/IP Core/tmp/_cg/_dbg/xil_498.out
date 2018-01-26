@@ -1,0 +1,28 @@
+SET_PARAMETER c_has_invalid_op false
+SET_PARAMETER c_has_overflow false
+SET_PARAMETER add_sub_value Both
+SET_PARAMETER c_a_fraction_width 24
+SET_PARAMETER maximum_latency false
+SET_PARAMETER c_mult_usage No_Usage
+SET_PARAMETER c_has_divide_by_zero false
+SET_PARAMETER c_speed Maximum_speed
+SET_PARAMETER c_latency 9
+SET_PARAMETER c_has_operation_nd false
+SET_PARAMETER c_has_underflow false
+SET_PARAMETER c_has_sclr false
+SET_PARAMETER c_result_exponent_width 8
+SET_PARAMETER c_has_ce true
+SET_PARAMETER a_precision_type Single
+SET_PARAMETER c_rate 1
+SET_PARAMETER result_precision_type Single
+SET_PARAMETER component_name IP_Core_rec_32bit
+SET_PARAMETER c_compare_operation Programmable
+SET_PARAMETER operation_type Square_root
+SET_PARAMETER c_optimization Speed_Optimized
+SET_PARAMETER c_a_exponent_width 8
+SET_PARAMETER c_result_fraction_width 24
+SET_PARAMETER c_has_operation_rfd false
+SET_PARAMETER c_has_rdy false
+SET_ERROR_CODE 2
+SET_ERROR_MSG  CANCEL: Customization cancelled.
+SET_ERROR_TEXT Finished initializing IP model.	

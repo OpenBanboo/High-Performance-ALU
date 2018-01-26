@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_NR.xst" -ofn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_NR.syr" 
+xst -intstyle ise -ifn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_NR.xst" -ofn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_NR.syr" 
+xst -intstyle ise -ifn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_NR.xst" -ofn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_NR.syr" 

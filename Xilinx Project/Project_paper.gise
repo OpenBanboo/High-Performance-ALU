@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Project_paper.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Reciprocal_Cascaded_GS_2.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Reciprocal_Cascaded_GS_2.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Reciprocal_Cascaded_GS_2.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Reciprocal_Cascaded_GS_2.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Reciprocal_Cascaded_GS_2.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Reciprocal_Cascaded_GS_2.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Reciprocal_Cascaded_GS_2.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Reciprocal_Cascaded_GS_2.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Reciprocal_Cascaded_GS_2_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Reciprocal_Cascaded_GS_2_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Reciprocal_Cascaded_GS_2_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Reciprocal_Cascaded_Hung.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Reciprocal_Cascaded_Hung.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Reciprocal_Cascaded_Hung.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Reciprocal_Cascaded_Hung.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Reciprocal_Cascaded_Hung.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Reciprocal_Cascaded_Hung.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Reciprocal_Cascaded_Hung.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Reciprocal_Cascaded_Hung.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Reciprocal_Cascaded_Hung_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Reciprocal_Cascaded_Hung_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Reciprocal_Pipelined_Hung.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Reciprocal_Pipelined_Hung.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Reciprocal_Pipelined_Hung.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Reciprocal_Pipelined_Hung.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Reciprocal_Pipelined_Hung.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Reciprocal_Pipelined_Hung.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Reciprocal_Pipelined_Hung.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Reciprocal_Pipelined_Hung.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Reciprocal_Pipelined_Hung_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Reciprocal_Pipelined_Hung_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Reciprocal_Pipelined_ItoNR.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Reciprocal_Pipelined_ItoNR.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Reciprocal_Pipelined_ItoNR.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Reciprocal_Pipelined_ItoNR.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Reciprocal_Pipelined_ItoNR.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Reciprocal_Pipelined_ItoNR.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Reciprocal_Pipelined_ItoNR.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Reciprocal_Pipelined_ItoNR.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Reciprocal_Pipelined_ItoNR_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Reciprocal_Pipelined_ItoNR_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Reciprocal_Pipelined_ItoNR_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Reciprocal_Pipelined_NR.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Reciprocal_Pipelined_NR.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Reciprocal_Pipelined_NR.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Reciprocal_Pipelined_NR.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Reciprocal_Pipelined_NR.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Reciprocal_Pipelined_NR.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Reciprocal_Pipelined_NR.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Reciprocal_Pipelined_NR.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Reciprocal_Pipelined_NR_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Reciprocal_Pipelined_NR_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Reciprocal_Pipelined_NR_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1451330937" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1451330937">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1451345630" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="6439778861793604823" xil_pn:start_ts="1451345630">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1451345630" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="63403721383511582" xil_pn:start_ts="1451345630">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1451345630" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1451345630">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1451345630" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-2749648056784367451" xil_pn:start_ts="1451345630">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1451345630" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1038254834676612577" xil_pn:start_ts="1451345630">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1451345630" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="4869917900277801384" xil_pn:start_ts="1451345630">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1451345651" xil_pn:in_ck="-958604139743185030" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="9177390458122665673" xil_pn:start_ts="1451345630">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <outfile xil_pn:name="Reciprocal_Pipelined_Hung.lso"/>
+      <outfile xil_pn:name="Reciprocal_Pipelined_Hung.ngc"/>
+      <outfile xil_pn:name="Reciprocal_Pipelined_Hung.ngr"/>
+      <outfile xil_pn:name="Reciprocal_Pipelined_Hung.prj"/>
+      <outfile xil_pn:name="Reciprocal_Pipelined_Hung.stx"/>
+      <outfile xil_pn:name="Reciprocal_Pipelined_Hung.syr"/>
+      <outfile xil_pn:name="Reciprocal_Pipelined_Hung.xst"/>
+      <outfile xil_pn:name="Reciprocal_Pipelined_Hung_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

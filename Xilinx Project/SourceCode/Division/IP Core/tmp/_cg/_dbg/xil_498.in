@@ -1,0 +1,60 @@
+SET_FLAG DEBUG FALSE
+SET_FLAG MODE INTERACTIVE
+SET_FLAG STANDALONE_MODE FALSE
+SET_PREFERENCE devicefamily virtex7
+SET_PREFERENCE device xc7v2000t
+SET_PREFERENCE speedgrade -1
+SET_PREFERENCE package fhg1761
+SET_PREFERENCE verilogsim true
+SET_PREFERENCE vhdlsim false
+SET_PREFERENCE simulationfiles Structural
+SET_PREFERENCE busformat BusFormatAngleBracketNotRipped
+SET_PREFERENCE outputdirectory C:/Users/User/Google Drive/2015/Thesis backup/Project/RecSqrt1/SourceCodes/Division/IP Core/
+SET_PREFERENCE workingdirectory C:/Users/User/Google Drive/2015/Thesis backup/Project/RecSqrt1/SourceCodes/Division/IP Core/tmp/
+SET_PREFERENCE subworkingdirectory C:/Users/User/Google Drive/2015/Thesis backup/Project/RecSqrt1/SourceCodes/Division/IP Core/tmp/_cg/
+SET_PREFERENCE transientdirectory C:/Users/User/Google Drive/2015/Thesis backup/Project/RecSqrt1/SourceCodes/Division/IP Core/tmp/_cg/_dbg/
+SET_PREFERENCE designentry Verilog
+SET_PREFERENCE flowvendor Other
+SET_PREFERENCE addpads false
+SET_PREFERENCE projectname coregen
+SET_PREFERENCE formalverification false
+SET_PREFERENCE asysymbol false
+SET_PREFERENCE implementationfiletype Ngc
+SET_PREFERENCE foundationsym false
+SET_PREFERENCE createndf false
+SET_PREFERENCE removerpms false
+SET_PARAMETER Component_Name IP_Core_rec_32bit
+SET_PARAMETER Operation_Type Square_root
+SET_PARAMETER Add_Sub_Value Both
+SET_PARAMETER C_Compare_Operation Programmable
+SET_PARAMETER A_Precision_Type Single
+SET_PARAMETER C_A_Exponent_Width 8
+SET_PARAMETER C_A_Fraction_Width 24
+SET_PARAMETER Result_Precision_Type Single
+SET_PARAMETER C_Result_Exponent_Width 8
+SET_PARAMETER C_Result_Fraction_Width 24
+SET_PARAMETER C_Optimization Speed_Optimized
+SET_PARAMETER C_Mult_Usage No_Usage
+SET_PARAMETER Maximum_Latency false
+SET_PARAMETER C_Latency 9
+SET_PARAMETER C_Rate 1
+SET_PARAMETER C_Speed Maximum_speed
+SET_PARAMETER C_Has_OPERATION_ND false
+SET_PARAMETER C_Has_OPERATION_RFD false
+SET_PARAMETER C_Has_RDY false
+SET_PARAMETER C_Has_SCLR false
+SET_PARAMETER C_Has_CE true
+SET_PARAMETER C_Has_UNDERFLOW false
+SET_PARAMETER C_Has_OVERFLOW false
+SET_PARAMETER C_Has_INVALID_OP false
+SET_PARAMETER C_Has_DIVIDE_BY_ZERO false
+SET_CORE_NAME Floating-point
+SET_CORE_VERSION 5.0
+SET_CORE_VLNV xilinx.com:ip:floating_point:5.0
+SET_CORE_CLASS com.xilinx.ip.floating_point_v5_0.floating_point_v5_0
+SET_CORE_PATH D:/Xilinx14.6/14.6/ISE_DS/ISE/coregen/ip/xilinx/primary/com/xilinx/ip/floating_point_v5_0
+SET_CORE_GUIPATH D:/Xilinx14.6/14.6/ISE_DS/ISE/coregen/ip/xilinx/primary/com/xilinx/ip/floating_point_v5_0/gui/floating_point_v5_0.tcl
+SET_CORE_DATASHEET D:\Xilinx14.6\14.6\ISE_DS\ISE\coregen\ip\xilinx\primary\com\xilinx\ip\floating_point_v5_0\doc\floating_point_ds335.pdf
+ADD_CORE_DOCUMENT <D:\Xilinx14.6\14.6\ISE_DS\ISE\coregen\ip\xilinx\primary\com\xilinx\ip\floating_point_v5_0\doc\floating_point_v5_0_readme.txt><floating_point_v5_0_readme.txt>
+ADD_CORE_DOCUMENT <D:\Xilinx14.6\14.6\ISE_DS\ISE\coregen\ip\xilinx\primary\com\xilinx\ip\floating_point_v5_0\doc\floating_point_v5_0_vinfo.html><floating_point_v5_0_vinfo.html>
+ADD_CORE_DOCUMENT <D:\Xilinx14.6\14.6\ISE_DS\ISE\coregen\ip\xilinx\primary\com\xilinx\ip\floating_point_v5_0\doc\floating_point_ds335.pdf><floating_point_ds335.pdf>

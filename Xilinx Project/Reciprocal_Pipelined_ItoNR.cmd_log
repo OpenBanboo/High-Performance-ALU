@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_ItoNR.xst" -ofn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_ItoNR.syr" 
+xst -intstyle ise -ifn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_ItoNR.xst" -ofn "C:/Users/Fang/Google Drive/2015/Thesis backup/Thesis_Final/Project_paper/Reciprocal_Pipelined_ItoNR.syr" 
